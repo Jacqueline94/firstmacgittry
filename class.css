@@ -1,0 +1,144 @@
+/*外联样式表*/
+/*background*/
+body{
+	font-family: Arial,Verdana,Sans-serif;
+	background-image: url("doge.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+*{
+
+}
+h1,p{
+
+}
+.title1{
+	font-size: 50px;
+	font-weight: 20px;
+	color: red;
+}
+.title2{
+	font-size: 100px;
+	color: #6E6464;
+}
+
+p span{
+	color: red;
+}
+.red{
+	color: #ff0000;
+}
+#gray{
+	color: rgb(110, 100, 100);
+}
+
+#box span{
+	border: 2px solid #ff0000;
+}
+
+.food li{
+    border:1px solid red;
+}
+/*
+.food li{
+    border:1px solid red;
+}*/
+
+input[type="text"]
+{
+  width:150px;
+  display:block;
+  margin-bottom:10px;
+  background-color:yellow;
+  font-family: Verdana, Arial;
+}
+
+input[type="button"]
+{
+  width:120px;
+  margin-left:35px;
+  display:block;
+  font-family: Verdana, Arial;
+}
+
+.haha a{
+	font-size: 50px;
+	text-decoration: none;
+}
+.haha li{
+	visibility: hidden;
+	list-style: none;
+}
+.haha:hover li{
+
+}
+
+/*border*/
+.border{
+	width: 100px;
+	height: 100px;
+	/*border: 10px dotted #ff0000;*/
+	outline:#6E6464 solid thick;
+	/*border: 5px solid #ff0000;*/
+	/*border: 5px double #ff0000;*/
+	border: none;
+}
+
+/*ul ol
+ul.a {
+	list-style-type:circle;
+}
+ul.b {
+	list-style-type:square;
+}
+ol.c {
+	list-style-type:upper-roman;
+}
+ol.d {
+	list-style-type:lower-alpha;
+}
+*/
+/*
+.b:link{
+	color: red;
+}
+.b:visited{
+	color: blue;
+}
+.b:hover{
+	color: #ff0000;
+}
+.b:active{
+	color: #000;
+}
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
